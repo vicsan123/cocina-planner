@@ -1,6 +1,0 @@
-.\env\Scripts\Activate
-cd backend
-python manage.py runserver 0.0.0.0:8000
-
-cd frontend
-npm run dev
